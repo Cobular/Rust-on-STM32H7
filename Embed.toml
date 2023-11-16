@@ -1,0 +1,6 @@
+[default.general]
+chip = "STM32H743ZITx"
+
+[default.rtt]
+enabled = true
+log_enabled = true

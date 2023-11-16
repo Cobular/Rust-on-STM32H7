@@ -1,0 +1,4 @@
+target
+*.png
+results/
+logs/
